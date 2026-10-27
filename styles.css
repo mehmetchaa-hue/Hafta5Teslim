@@ -1,0 +1,23 @@
+body {
+    background-color: #e8e4da;
+    color: #26332f;
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+
+.baslik {
+    background-color: #26332f;
+    color: white;
+    padding: 20px;
+}
+
+.bolum {
+    background-color: white;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.foto {
+    width: 100%;
+    max-width: 500px;
+}
